@@ -1,0 +1,36 @@
+5
+Pana la cate puncte se joaca un meci de pingpong?
+15
+0
+21
+1
+8
+0
+Daca la serva, mingea loveste fileul ce se intampla?
+Se continua jocul
+0
+Adversarul castiga punctul
+0
+Se reia serva
+1
+Ce skill-uri iti trebuie pentru a juca?
+Forta
+0
+Reflexe si agilitate
+1
+Conditie fizica buna
+0
+Daca la serva, mingea nu atinge jumatatile de teren opuse diagonal:
+Se continua jocul
+0
+Se reia serva
+0
+Adversarul castiga punctul
+1
+Daca la serva, mingea scapa din mana celui care serveste
+Se reia serva
+0
+Adversarul castiga punctul
+1
+La 2 greseli, adversarul castiga punctul
+0

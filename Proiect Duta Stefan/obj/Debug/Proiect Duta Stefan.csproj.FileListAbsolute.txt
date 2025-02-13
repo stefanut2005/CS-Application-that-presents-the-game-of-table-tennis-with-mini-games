@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\bin\Debug\Proiect Duta Stefan.exe.config
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\bin\Debug\Proiect Duta Stefan.exe
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\bin\Debug\Proiect Duta Stefan.pdb
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect Duta Stefan.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormInformare.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.Form1.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.Properties.Resources.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect Duta Stefan.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect Duta Stefan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect Duta Stefan.exe
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect Duta Stefan.pdb
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormRelaxare.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormTestare.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormTestGrila.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormMozaic.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormAlbumFotoPagini.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormMemory.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormNomenclator.resources
+C:\Users\User\source\repos\Proiect Duta Stefan\Proiect Duta Stefan\obj\Debug\Proiect_Duta_Stefan.FormPuzzle.resources
